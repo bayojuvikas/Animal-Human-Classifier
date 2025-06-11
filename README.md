@@ -1,6 +1,6 @@
 ## 🧠 Animal & Human Detection and Classification System
 
-This project implements a complete end-to-end system to detect, classify, and track humans and animals in video files using deep learning and computer vision techniques. Built to fulfill the requirements of an AI Engineer assignment at **Maharshi Industries Pvt. Ltd.**
+This project implements a complete end-to-end system to detect, classify, and track humans and animals in video files using deep learning and computer vision techniques.
 
 ![Architecture](https://img.shields.io/badge/YOLOv8-DETECTION-blue) ![ResNet18](https://img.shields.io/badge/ResNet18-CLASSIFICATION-green) ![DeepSORT](https://img.shields.io/badge/DeepSORT-TRACKING-red) ![W\&B](https://img.shields.io/badge/w%26b-Logging-orange)
 
