@@ -97,12 +97,6 @@ Annotated video will be saved in `outputs/annotated_your_video.mp4`
 
 ---
 
-### ✨ Sample Output
-
-<img src="https://user-images.githubusercontent.com/yourusername/sample.gif" width="700"/>
-
----
-
 ### 🧰 Dependencies
 
 ```bash
