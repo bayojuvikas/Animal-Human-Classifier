@@ -65,15 +65,15 @@ project/
 * **Detection**:
 
   * Framework: Ultralytics YOLOv8
-  * Loss: \~<your final loss>
-  * mAP\@50: <your value>
+  * Loss: \~1.29
+  * mAP\@50: 87.4
   * Tool: Weights & Biases (wandb)
 
 * **Classification**:
 
   * Model: ResNet18 (fine-tuned)
-  * Accuracy: <your accuracy>
-  * Loss: <your loss>
+  * Accuracy: 95.2
+  * Loss: 0.183
 
 ---
 
